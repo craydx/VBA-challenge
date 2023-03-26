@@ -1,2 +1,1 @@
-# VBA-challenge
-VBA-challenge 
+I created the code with help from AskBCS and my tutor Rebecca Leeds. I also used Google as a guide. This was an extremely challenging assignment, however with guidance I was able to finish.
